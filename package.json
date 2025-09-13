@@ -2,7 +2,7 @@
   "dependencies": {
     "@alpinejs/csp": "3.14.9",
     "@microsoft/office-js": "1.1.109",
-    "axios": "1.8.4",
+    "axios": "1.12.0",
     "bootstrap": "5.3.5",
     "bootstrap-xlwings": "github:xlwings/bootstrap-xlwings#5.3.3-1",
     "htmx-ext-head-support": "2.0.4",
